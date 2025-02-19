@@ -1,5 +1,5 @@
 <h1 align="center">Ahoy, I'm Arpit Saxena</h1>
-<h3 align="center">A passionate Data Engineer currently based out of Delhi.</h3>
+<h3 align="center">A passionate Data Engineer looking to transition as a Senior Software Engineer.</h3>
 
 - 🔭 I’m currently working at **Egon Zender**
 - 💻 Previously worked at **Deloitte** with clients in the FMCG domain.
