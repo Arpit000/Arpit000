@@ -6,6 +6,28 @@
 - 🔭 I’m currently working at **Egon Zender**
 - 💻 Previously worked at **Deloitte** with clients in the FMCG domain.
 
+<h3 align="left">🎖️Certifications</h3>
+<p align="left">
+  <a href="#" title="Microsoft Certified: DP-203 Data Engineer Associate">
+    <img
+      src="https://img.shields.io/badge/DP--203%20Data%20Engineer%20Associate-Microsoft%20Certified-0078D4?logo=microsoft-azure&logoColor=white"
+      alt="Microsoft Certified: DP-203 Data Engineer Associate" />
+  </a>
+  
+  <a href="#" title="Confluent Data Streaming Engineer">
+    <img
+      src="https://img.shields.io/badge/Data%20Streaming%20Engineer-Confluent-0A49A1?logo=confluent&logoColor=white"
+      alt="Confluent Data Streaming Engineer" />
+  </a>
+  
+  <a href="#" title="Microsoft Certified: Azure Fundamentals (AZ-900)">
+    <img
+      src="https://img.shields.io/badge/AZ--900%20Azure%20Fundamentals-Microsoft%20Certified-0078D4?logo=microsoft-azure&logoColor=white"
+      alt="Microsoft Certified: Azure Fundamentals (AZ-900)" />
+  </a>
+</p>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/arpit-saxena-8a795b150" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/arpit-saxena-8a795b150" height="30" width="40" /></a>
