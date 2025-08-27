@@ -35,12 +35,4 @@
 <a href="https://www.leetcode.com/https://leetcode.com/u/arpit13021999/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/arpit13021999/" height="30" width="40" /></a>
 </p>
 
-<h3>⚡ Tech Stack</h3>
-<ul>
-  <li><b>Languages:</b> Python, SQL, Scala, C++</li>
-  <li><b>Big Data:</b> Apache Spark, Kafka, Hive, Databricks, Airflow</li>
-  <li><b>Databases:</b> SQL Server, PostgreSQL, Snowflake, MongoDB</li>
-  <li><b>Cloud:</b> Azure, AWS (S3, Redshift, EMR), Confluent</li>
-  <li><b>Tools:</b> Git, Docker, Linux</li>
-</ul>
 
