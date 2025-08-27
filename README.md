@@ -1,5 +1,7 @@
 <h1 align="center">Ahoy!</h1>
-<h3 align="center">A passionate Data Engineer looking to transition as a Senior Software Engineer.</h3>
+<h3 align="center">👋 Hi, I’m Arpit Saxena
+
+🚀 Data Engineer with 3+ years of experience building robust, scalable, and cost-optimized data pipelines across cloud platforms.</h3>
 
 - 🔭 I’m currently working at **Egon Zender**
 - 💻 Previously worked at **Deloitte** with clients in the FMCG domain.
