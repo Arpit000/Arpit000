@@ -3,8 +3,8 @@
 
 🚀 I'm a Data Engineer with 4 years of experience building robust, scalable, and cost-optimized data pipelines across cloud platforms.</h3>
 
-- 🔭 I’m currently working at **Egon Zender**
-- 💻 Previously worked at **Deloitte** with clients in the FMCG domain.
+- 🔭 I’m currently working at **Egon Zender**, where I'm spearheading event-driven data pipelines and streaming workflows.
+- 💻 Previously worked at **Deloitte** with clients in the FMCG domain, where I mainly specialized in building lakehouse pipelines for analytics teams.
 
 <h3 align="left">🎖️Certifications</h3>
 <p align="left">
