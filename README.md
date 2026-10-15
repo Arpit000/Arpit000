@@ -8,6 +8,13 @@
 
 <h3 align="left">🎖️Certifications</h3>
 <p align="left">
+
+  <a href="#" title="Microsoft Certified: DP-700 Fabric Data Engineer Associate">
+    <img
+      src="https://img.shields.io/badge/DP--203%20Data%20Engineer%20Associate-Microsoft%20Certified-0078D4?logo=microsoft-azure&logoColor=white"
+      alt="Microsoft Certified: DP-203 Data Engineer Associate" />
+  </a>
+  
   <a href="#" title="Microsoft Certified: DP-203 Data Engineer Associate">
     <img
       src="https://img.shields.io/badge/DP--203%20Data%20Engineer%20Associate-Microsoft%20Certified-0078D4?logo=microsoft-azure&logoColor=white"
